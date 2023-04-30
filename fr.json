@@ -2,13 +2,13 @@
     "NO_PLAYER_NEARBY": "Aucun joueurs au alentours",
     "AMOUNT": "Montant",
     "MAX_BILL_AMOUNT": "Vous ne pouvez pas dépasser %s en montant de facture",
-    "ERROR": "Une erreur s'est produite (%s)"",
+    "ERROR": "Une erreur s'est produite (%s)",
     "EXIT_GAME": "Merci d'avoir joué sur %s",
     "MENU_DESCRIPTION": "Actions Disponibles",
     "NO_ENOUGHT_MONEY": "Vous n'avez pas assez d'argent",
     "BUY_SUCCESS": "Vous avez acheter %s pour %s$",
     "SERVICE": "Service",
-    "BILLING_BUTTON": "Mettre une Facture""
+    "BILLING_BUTTON": "Mettre une Facture",
     "DEAD_TIMER": "Il vous reste %s minute(s)",
     "CALL_MEDIC": "Contactez les EMS",
     "GO_HOPITAL": "Retourner à l'hôpital",
@@ -46,6 +46,6 @@
     "DEAD_INFORMATIONS_BUTTON": "Information de ma mort",
     "DEAD_INFORMATION": "Informations de votre Mort\nRaison : %s\nTueur ( ID UNIQUE ): %s",
     "PLAYER_NOT_KILL_YOU": "Vous ne vous êtes pas fais tuer par un joueur",
-    "REVIVE_IN_PROGRESS": "Réanimation en cours...""
+    "REVIVE_IN_PROGRESS": "Réanimation en cours...",
     "NOT_SELECT_ANIMAL": "Vous n'avez pas choisis votre animal",
 }
