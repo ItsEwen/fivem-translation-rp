@@ -12,7 +12,7 @@
     "DEAD_TIMER": "Il vous reste %s minute(s)",
     "CALL_MEDIC": "Contactez les EMS",
     "GO_HOPITAL": "Retourner à l'hôpital",
-    "GO_HOPITAL_DESCRIPTION": "Vous avez une 1 chance sur 10 de perdre vos objets illégaux.",
+    "GO_HOPITAL_DESCRIPTION": "Vous avez une 3 chance sur 10 de perdre vos objets illégaux.",
     "LITTLE_HEAL": "Appliquer un soin leger",
     "REVIVE_PLAYER": "Réanimer le joueur le plus proche",
     "REPORT_INFO_BUTTON": "%s appels en cours",
