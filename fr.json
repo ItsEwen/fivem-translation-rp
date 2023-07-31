@@ -149,5 +149,14 @@
 	"component_scope_advanced": "lunette",
 	"component_suppressor": "réducteur de son",
 	"component_grip": "poignée",
-	"component_luxary_finish": "finition de luxe"
+	"component_luxary_finish": "finition de luxe",
+
+    "PRICE": "Prix",
+    "FUEL_IN_STOCK": "Fuel en stock",
+    "PAID_CARD": "Carte",
+    "PAID_CASH": "Espèce",
+    "FUEL_TITLE": "Station Essence",
+    "FUEL_LITRE": "Litre(s)",
+    "FUEL_PAID_PRICE": "Payer quantité selectionné",
+    "FUEL_PAID_MAX": "Faire le plein"
 }
