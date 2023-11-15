@@ -23,6 +23,7 @@
     "HOSPITAL_BLIP": "Hôpital",
     "HOSPITAL_PILLBOX_BLIP": "Hôpital Pillbox",
     "HOSPITAL_NORTH_BLIP": "Hôpital Nord",
+	"HOSPITAL_CAYO_BLIP": "Hôpital Cayo",
     "KO": "Vous venez de tomber KO.",
     "SIGNAL_OPEN_BUTTON": "Appel(s) en attente",
     "INTERACT_PLAYER_BUTTON": "Intéractions joueurs",
