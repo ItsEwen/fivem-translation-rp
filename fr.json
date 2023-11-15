@@ -151,12 +151,19 @@
 	"component_grip": "poignée",
 	"component_luxary_finish": "finition de luxe",
 
-    "PRICE": "Prix",
-    "FUEL_IN_STOCK": "Fuel en stock",
-    "PAID_CARD": "Carte",
-    "PAID_CASH": "Espèce",
-    "FUEL_TITLE": "Station Essence",
-    "FUEL_LITRE": "Litre(s)",
-    "FUEL_PAID_PRICE": "Payer cette quantité",
-    "FUEL_PAID_MAX": "Faire le plein"
+	"PRICE": "Prix",
+	"FUEL_IN_STOCK": "Fuel en stock",
+	"PAID_CARD": "Carte",
+	"PAID_CASH": "Espèce",
+	"FUEL_TITLE": "Station Essence",
+	"FUEL_LITRE": "Litre(s)",
+	"FUEL_PAID_PRICE": "Payer cette quantité",
+	"FUEL_PAID_MAX": "Faire le plein",
+	"ATTRIBUTE_ATA" : "Attribuer un ATA",
+	"ATTRIBUTE_CANE" : "Attribuer un ATA (câne)",
+	"ATA_PLAYER" : "Mettre un ATA",
+	"SET_ATA_CANE" : "Vous avez donné un ATA avec câne a %s pendant %s minutes.",
+	"INVALID_TIME" : "Vous avez entré un temps invalide.",
+	"SET_ATA_NORMAL" : "Vous avez donné un ATA a %s pendant %s minutes.",
+	
 }
