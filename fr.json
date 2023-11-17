@@ -166,5 +166,6 @@
 	"SET_ATA_CANE" : "Vous avez donné un ATA avec câne a %s pendant %s minutes.",
 	"INVALID_TIME" : "Vous avez entré un temps invalide.",
 	"SET_ATA_NORMAL" : "Vous avez donné un ATA a %s pendant %s minutes.",
-	
+	"PLAYER_RESPAWN_LAY" : "Vous vous reposez dans le lit...",
+	"PLAYER_RESPAWN_RECOVERY" : "Vous récuperez doucement."
 }
