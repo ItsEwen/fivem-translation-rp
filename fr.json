@@ -167,5 +167,8 @@
 	"INVALID_TIME" : "Vous avez entré un temps invalide.",
 	"SET_ATA_NORMAL" : "Vous avez donné un ATA pendant %s minutes.",
 	"PLAYER_RESPAWN_LAY" : "Vous vous reposez dans le lit...",
-	"PLAYER_RESPAWN_RECOVERY" : "Vous récuperez doucement."
+	"PLAYER_RESPAWN_RECOVERY" : "Vous récuperez doucement.",
+
+	"WELCOME_DESCRIPTION_MENU" : "Bienvenue sur %s",
+	"CREATE_CHARACTER" : "Crée son personnage"
 }
